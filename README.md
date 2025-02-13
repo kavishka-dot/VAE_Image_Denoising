@@ -52,7 +52,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/kavishka-dot/VAE_Image_Denoising.git
-cd vae-image-denoising
+cd VAE_Image_Denoising
 ```
 
 ## ⚡ Usage
