@@ -13,7 +13,6 @@ Welcome to the **Variational Autoencoder (VAE)** project for image denoising! ðŸ
 - [Training](#-training)
 - [Evaluation](#-evaluation)
 - [Results](#-results)
-- [License](#-license)
 - [Contribution](#-contribution)
 
 ## ðŸš€ Overview
@@ -49,7 +48,7 @@ Ensure you have Python 3.7+ and PyTorch 1.10+ (with CUDA support for GPU acceler
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/vae-image-denoising.git
+git clone https://github.com/kavishka-dot/VAE_Image_Denoising.git
 cd vae-image-denoising
 ```
 
