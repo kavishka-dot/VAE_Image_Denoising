@@ -1,5 +1,6 @@
 # Variational Autoencoder (VAE) Models for Image Denoising 📸🔧
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b348903b-8d51-4537-96c8-48d688204825)
+
 
 
 Welcome to the **Variational Autoencoder (VAE)** project for image denoising! 🎉 This repository contains multiple VAE model implementations designed to tackle the task of reconstructing noisy images using deep learning techniques. We aim to demonstrate the effectiveness of VAEs, Multi-Scale VAEs, and Adaptive Filter VAEs for image denoising in a clear and modular manner.
